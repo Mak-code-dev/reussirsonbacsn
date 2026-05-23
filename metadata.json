@@ -1,0 +1,6 @@
+{
+  "name": "Bac Révision Terminale",
+  "description": "Une application de révision complète pour les élèves en Terminale, regroupant toutes les matières de l'examen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
