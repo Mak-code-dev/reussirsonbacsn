@@ -55,7 +55,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
           onLoginSuccess({
             name: 'MAK Élève',
             school: 'Lycée Mame Yelli Badiane',
-            email: 'dibordang42@gmail.com'
+            email: 'reussirsonbacsn@gmail.com'
           });
         }, 1200);
       }, 1500);
@@ -83,7 +83,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
           </motion.div>
           <div className="space-y-1">
             <h1 className="text-2xl font-display font-bold text-zinc-900 dark:text-zinc-100 uppercase tracking-tight">baccalauréat 2026</h1>
-            <p className="text-xs text-zinc-400 font-medium">préparez vos révisions avec la plateforme de terminale complète</p>
+            <p className="text-xs text-zinc-400 font-medium">préparez vos révisions avec la plateforme de terminale série L complète</p>
           </div>
         </div>
 
@@ -110,7 +110,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
               <input
                 required
                 type="text"
-                placeholder="ex: mak badiane"
+                placeholder="ex: Mamad Kebe"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 className="w-full pl-9 pr-4 py-2.5 text-xs bg-zinc-50 dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:bg-white transition-all text-zinc-800 dark:text-zinc-100"
@@ -215,7 +215,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
             site de révision officiel créé par <strong className="text-zinc-500 dark:text-zinc-300">mak badiane</strong>
           </p>
           <p className="text-[9px] text-zinc-350 dark:text-zinc-600 lowercase mt-0.5">
-            lycée mame yelli badiane &copy; 2026 - tous droits réservés
+            reussirsonbac &copy; 2026 - tous droits réservés
           </p>
         </div>
       </motion.div>
