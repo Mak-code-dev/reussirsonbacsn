@@ -212,7 +212,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
         {/* Footer info about Lycée */}
         <div className="pt-6 mt-6 border-t border-zinc-100 dark:border-zinc-800 text-center">
           <p className="text-[10px] text-zinc-400 lowercase leading-relaxed">
-            site de révision officiel créé par <strong className="text-zinc-500 dark:text-zinc-300">mak badiane</strong>
+            site de révision officiel créé par <strong className="text-zinc-500 dark:text-zinc-300">Mamad</strong>
           </p>
           <p className="text-[9px] text-zinc-350 dark:text-zinc-600 lowercase mt-0.5">
             reussirsonbac &copy; 2026 - tous droits réservés
