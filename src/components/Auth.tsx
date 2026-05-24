@@ -53,7 +53,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
         setGoogleStep(3);
         setTimeout(() => {
           onLoginSuccess({
-            name: 'MAK Élève',
+            name: 'utilisateur',
             school: 'Lycée Mame Yelli Badiane',
             email: 'reussirsonbacsn@gmail.com'
           });

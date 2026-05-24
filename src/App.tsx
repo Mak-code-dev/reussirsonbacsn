@@ -239,7 +239,7 @@ export default function App() {
               <div className="max-w-7xl mx-auto px-4 py-3 flex items-start gap-2.5">
                 <Sparkles className="text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" size={14} />
                 <p className="text-[11px] text-emerald-800 dark:text-emerald-300 leading-relaxed lowercase">
-                  ce site a été créé par <strong className="font-semibold text-emerald-900 dark:text-emerald-200">mak</strong>, élève au <strong className="font-semibold text-emerald-900 dark:text-emerald-200">lycée mame yelli badiane</strong>. son objectif est de vous permettre de vous préparer au baccalauréat. toutes les leçons présentes sont basées sur les anciennes épreuves du baccalauréat de <strong className="font-semibold">2025, 2024, 2023, 2019 et 2017</strong>. révisez intelligemment !
+                  ce site a été créé par <strong className="font-semibold text-emerald-900 dark:text-emerald-200">Mamad</strong>, élève au <strong className="font-semibold text-emerald-900 dark:text-emerald-200">Lycée Mame Yelli Badiane</strong>. son objectif est de vous permettre de vous préparer au baccalauréat. toutes les leçons présentes sont basées sur les anciennes épreuves du baccalauréat de <strong className="font-semibold">2025, 2024, 2023, 2019 et 2017</strong>. révisez intelligemment !
                 </p>
               </div>
             </div>
@@ -773,7 +773,7 @@ export default function App() {
             <footer className="bg-white dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-900 mt-12 transition-colors">
               <div className="max-w-7xl mx-auto px-4 py-6 text-center text-xs text-zinc-400 space-y-1">
                 <p className="lowercase leading-relaxed">
-                  baccalauréat terminale réviser — créé avec fierté par <strong className="text-zinc-700 dark:text-zinc-300">mak</strong>, élève au lycée mame yelli badiane.
+                  baccalauréat terminale réviser — créé avec fierté par <strong className="text-zinc-700 dark:text-zinc-300">Mamad</strong>, élève au lycée mame yelli badiane.
                 </p>
                 <p className="text-[10px] text-zinc-350 dark:text-zinc-650 lowercase">
                   base d'exercices conformes aux épreuves nationales du bac de 2017 à 2025.
